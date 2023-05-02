@@ -1,4 +1,3 @@
-# Pantry
+# Spices
 
-Just basic ingredients for now.
-
+Just the basics for now.
