@@ -5,7 +5,7 @@
 
 SRC = $(wildcard src/*.c)
 OBJ = ${SRC:.c=.o}
-OUT = bin/oil
+OUT = bin/pepper
 
 # Fallback to gcc if clang not available
 CC = clang

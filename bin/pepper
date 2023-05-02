@@ -1,4 +1,0 @@
-#!/bin/bash
-echo "Grinding some pepper!"
-sleep 3
-echo "Done."

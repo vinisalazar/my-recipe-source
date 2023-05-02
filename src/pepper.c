@@ -2,8 +2,8 @@
 #include <unistd.h>
 int main()
 {
-    printf("A splash of olive oil!\n");
-    sleep(1);
+    printf("Grinding some pepper!\n");
+    sleep(3);
     printf("Done.\n");
     return 0;
 }
