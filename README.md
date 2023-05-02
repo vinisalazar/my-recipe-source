@@ -9,5 +9,5 @@ Installation:
 make
 ```
 
-Source code is in the `src/` directory.
+Source code is in the `src/` directory.  
 Executables are in the `bin/` directory.
