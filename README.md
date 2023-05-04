@@ -1,6 +1,6 @@
-# Spices
+# My-Recipe-Source
 
-An example repository to build a conda package. It contains two programs:
+An example repository to build a conda package from `my-recipe`. It contains two programs:
   * `bin/salt`, a bash script.
   * `src/pepper.c`, a C program which must be compiled.
 
